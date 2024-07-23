@@ -1,1 +1,3 @@
+Resolved conflict: keep both changes
 Conflicting change in main
+Conflicting change in feature-branch
